@@ -119,6 +119,16 @@ input, select{
 
 /* To Do List */
 
+.done{
+    background-color: #395169;
+
+}
+.done h3{
+    color: #fff;
+    text-decoration: line-through;
+    font-style: italic;
+}
+
 .todo{
     display: flex;
     justify-content: space-around;
